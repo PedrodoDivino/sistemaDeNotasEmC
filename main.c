@@ -1,4 +1,4 @@
-//Leonardo de Oliveira Florindo, Pedro Henrique do Divino Sandrini, Igor Henrique dos Santos, Rodrigo Aparecido Roza, Bruno Elias Avelar, Renato Canelossi Inacio. 
+
 #include <stdio.h>
 struct boletim {
     float notas[2][2];
